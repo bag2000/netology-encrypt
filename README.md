@@ -18,27 +18,27 @@ ___
 
 **Скриншот**
 
-![Домашний католог](https://github.com/bag2000/netology-encrypt/blob/main/1.png)
+![Домашний католог](https://github.com/bag2000/netology-encrypt/blob/main/1-1.png)
 
 
 Зашифруем домашний каталог /home пользователя cryptouser с помощью eCryptfs.
 
 **Скриншот**
 
-![шифрование](https://github.com/bag2000/netology-encrypt/blob/main/2.png)
+![шифрование](https://github.com/bag2000/netology-encrypt/blob/main/1-2.png)
 
 
 **Зашифрованный раздел /home**
 
 **Скриншот**
 
-![Видим зашифрованный раздел](https://github.com/bag2000/netology-encrypt/blob/main/3.png)
+![Видим зашифрованный раздел](https://github.com/bag2000/netology-encrypt/blob/main/1-3.png)
 
 Возвращяем доступ к файлам папки /home 
 
 **Скриншот**
 
-![Размонтирование и доступ к файлам](https://github.com/bag2000/netology-encrypt/blob/main/4.png)
+![Размонтирование и доступ к файлам](https://github.com/bag2000/netology-encrypt/blob/main/1-4.png)
 
 
 Как видим доступ появился в домашней папке /home 
