@@ -59,20 +59,20 @@ ___
 
 **Скриншот**
 
-![Снимок экрана от 2022-12-04 14-13-37](https://github.com/bag2000/netology-encrypt/blob/main/5.png)
+![Снимок экрана от 2022-12-04 14-13-37](https://github.com/bag2000/netology-encrypt/blob/main/2-5.png)
 
 проверяем 
 
 **Скриншот**
 
-![Снимок экрана от 2022-12-04 14-16-32](https://github.com/bag2000/netology-encrypt/blob/main/6.png)
+![Снимок экрана от 2022-12-04 14-16-32](https://github.com/bag2000/netology-encrypt/blob/main/2-6.png)
 
 
 Чтобы расшифровать диск, который был зашифрован с помощью LUKS. Требуется выполнить и смонтировать диск 
 
 **Скриншот**
 
-![Снимок экрана от 2022-12-04 14-18-19](https://github.com/bag2000/netology-encrypt/blob/main/7.png)
+![Снимок экрана от 2022-12-04 14-18-19](https://github.com/bag2000/netology-encrypt/blob/main/2-7.png)
 
 точка монтирования для подключенного диска.  /media/mydrive 
 
@@ -80,6 +80,6 @@ ___
 
 **Скриншот**
 
-![Снимок экрана от 2022-12-04 14-21-35](https://github.com/bag2000/netology-encrypt/blob/main/8.png)
+![Снимок экрана от 2022-12-04 14-21-35](https://github.com/bag2000/netology-encrypt/blob/main/2-8.png)
 
 После подключения мы сможем получить доступ к подключенному диску из графического файлового менеджера или из командной строки.
